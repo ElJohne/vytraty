@@ -1,3 +1,4 @@
 blue
 dark red
+white1
 white2
